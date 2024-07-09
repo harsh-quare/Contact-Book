@@ -1,6 +1,10 @@
 # ContactBook
 
+<<<<<<< HEAD
 ContactBook is a C++ application for managing contacts. Users can add, edit, delete, search, and display contacts. The application stores each contacts name and phone number in a doubly linked list, ensuring efficient operations. Contacts can be saved to a file for persistent storage and reloaded when the application restarts.
+=======
+ContactBook is a C++ application for managing contacts. Users can add, edit, delete, search, and display contacts. The application stores each contact's name and phone number in a doubly linked list, ensuring efficient operations. Contacts can be saved to a file for persistent storage and reloaded when the application restarts.
+>>>>>>> 25bed497dbf497fd18c356263c569aaa0541e95f
 
 ## Features
 
@@ -25,5 +29,9 @@ ContactBook is a C++ application for managing contacts. Users can add, edit, del
 1. Clone the repository (optional):
 
    ```sh
+<<<<<<< HEAD
    git clone https://github.com/harsh-quare/ContactBook.git
+=======
+   git clone https://github.com/YOUR_USERNAME/ContactBook.git
+>>>>>>> 25bed497dbf497fd18c356263c569aaa0541e95f
    cd ContactBook
